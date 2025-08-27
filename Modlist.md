@@ -2,16 +2,12 @@
 
 ## Baseline
 
----
-
 - [Corter Mod Sync](https://github.com/c-orter/ModSync)
 - Fika
 	- [Fika GitHub](https://github.com/project-fika)
 	- [Fika Wiki](https://project-fika.gitbook.io/wiki)
 
 ## Client Mods
-
----
 
 **`<spt-root>/Bepinex/plugins`**
 - [Color Converter API](https://hub.sp-tarkov.com/files/file/1509-color-converter-api/)
@@ -30,8 +26,6 @@
 - [Modding Stats Helper](https://hub.sp-tarkov.com/files/file/1814-modding-stats-helper-by-wara/?highlight=modding%20st)
 
 ## Server Mods
-
----
 
 **`<spt-root>/user/mods`**
 
@@ -59,8 +53,6 @@
 - [Load Order Editor](https://hub.sp-tarkov.com/files/file/1082-loe-load-order-editor/)
 
 ## Mods with both Client and Server Files
-
----
 
 - [UI Fixes](https://hub.sp-tarkov.com/files/file/1860-ui-fixes/?highlight=ui)
 - [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/?highlight=questing)
